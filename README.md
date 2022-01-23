@@ -2,10 +2,12 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithsooraj&label=Profile%20views&color=0e75b6&style=flat" alt="codewithsooraj" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithsooraj" alt="codewithsooraj" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/80625232/150675288-b1e1738a-7eee-4a14-a305-e2df98c85cb0.gif">
-<p align="left"> <a href="https://twitter.com/codewithsooraj" target="blank"><img src="https://img.shields.io/twitter/follow/codewithsooraj?logo=twitter&style=for-the-badge" alt="codewithsooraj" /></a> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithsooraj" alt="codewithsooraj" /></a> </p>
+
+<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/80625232/150675288-b1e1738a-7eee-4a14-a305-e2df98c85cb0.gif">
+
+<p align="left"> <a href="https://twitter.com/codewithsooraj" target="blank"><img src="https://img.shields.io/twitter/follow/codewithsooraj?logo=twitter&style=for-the-badge" alt="codewithsooraj" /></a> </p>
 
 - 🔭 I’m currently working on **a personal project.**
 
