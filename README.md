@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithsooraj" alt="codewithsooraj" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/80625232/150675288-b1e1738a-7eee-4a14-a305-e2df98c85cb0.gif">
+<img align="right" alt="Coding" width="400" margin="auto" src="https://user-images.githubusercontent.com/80625232/150675288-b1e1738a-7eee-4a14-a305-e2df98c85cb0.gif">
 
 <p align="left"> <a href="https://twitter.com/codewithsooraj" target="blank"><img src="https://img.shields.io/twitter/follow/codewithsooraj?logo=twitter&style=for-the-badge" alt="codewithsooraj" /></a> </p>
 
