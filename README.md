@@ -1,62 +1,62 @@
 <h1 align="center">Hi 👋, I'm Sooraj</h1>
 <br />
-<img align="right" alt="Coding" width="400" margin="auto" src="https://user-images.githubusercontent.com/80625232/150675288-b1e1738a-7eee-4a14-a305-e2df98c85cb0.gif">
+<img align="right" alt="Coding" width="30%" src="https://user-images.githubusercontent.com/80625232/150675288-b1e1738a-7eee-4a14-a305-e2df98c85cb0.gif">
 
 **I am a self-taught Full-stack web/mobile developer from India.**
 <br/>I enjoy taking up complex problems and turning them into simple and beautiful interface designs. I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
-<br />**I have 5+ Years of experience in full-stack web-dev.**
+<br /><br />**I have 1+ Years of experience in full-stack web-dev.**
 
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/?username=hicodersofficial&show_icons=true" alt="git stats"> -->
+
 <br />
 
 ## Fun Fact 🎈:
 
-<!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
-
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/?username=codewithsooraj&show_icons=true" alt="git stats">
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
+• 🎵 I always listen to music while <b>coding</b>.<br/>
 • 💬 Ask me about <b>Full Stack</b>.<br/>
-• 📫 Reach me out <a href="https://www.instagram.com/hi.coders"><b>@hi.coders</b></a><br/>
+• 📫 Reach me out <a href="https://www.instagram.com/codewithsooraj"><b>@codewithsooraj</b></a><br/>
 </span>
 
 <br />
 
 ## 🏆 **GITHUB TROPHY**
 
-![](https://github-profile-trophy.vercel.app/?username=hicodersofficial&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
+![](https://github-profile-trophy.vercel.app/?username=codewithsooraj&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
 
-<a href="http://www.github.com/hicodersofficial"><img src="https://activity-graph.herokuapp.com/graph?username=hicodersofficial&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/codewithsooraj"><img src="https://activity-graph.herokuapp.com/graph?username=codewithsooraj&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <br />
 
 ## 🌏 **CONNECT WITH ME**
 
-<a href="https://www.instagram.com/hi.coders"> 
+<a href="https://www.instagram.com/codewithsooraj"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
-<a href="https://discord.gg/TTsSYUJzDa"> 
+<!-- <a href="https://discord.gg"> 
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
-</a>
-<a href="https://www.youtube.com/channel/UC1hooNUnK4Ivk5KBaT5PKIg"> 
+</a> -->
+<!-- <a href="https://www.youtube.com/"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
-</a>
-<!-- <a href="mailto:hicodersofficial@gmail.com"> 
+</a> -->
+<!-- <a href="mailto:codewithsooraj@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Gmail"  alt="Gmail"/>
 </a> -->
-<!-- <a href="https://www.github.com/hicodersofficial"> 
+<!-- <a href="https://www.github.com/codewithsooraj"> 
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
 </a> -->
-<!-- <a href="https://twitter.com/coders_hi"> 
+<!-- <a href="https://twitter.com/codewithsooraj"> 
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" title="Twitter"  alt="Twitter"/>
 </a> -->
-<!-- <a href="https://www.facebook.com/hicoders"> 
+<!-- <a href="https://www.facebook.com/codewithsooraj"> 
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" title="Facebook"  alt="Facebook"/>
 </a> -->
-<a  href="https://www.linkedin.com/company/hi-coders/">
+<a  href="https://www.linkedin.com/in/codewithsooraj">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
-<a href="https://codepen.io/hicoders"> 
+<a href="https://codepen.io/codewithsooraj"> 
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" title="Codepen"  alt="Codepen"/>
 </a>
 <br />
@@ -120,7 +120,7 @@
 <!-- [![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white "Postgresql")][repo] -->
 
 ## 🎯 **PROGRAMMING LANGUAGES**
-
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54 "Python")][repo]
 [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white "Dart")][repo]
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++")][repo]
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white "C#")][repo]
@@ -157,11 +157,11 @@
 [![Visual Studio Code](https://img.shields.io/badge/VS%20Code%20Insider-24bfa5.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")][repo]
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important "Sublime Text")][repo]
 [![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)][repo]
+[![Pycharm](https://img.shields.io/badge/pycharm-%23123.svg?style=for-the-badge&logo=pycharm&logoColor=white)][repo]
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)][repo]
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)][repo]
-
-<!-- [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white "Visual Studio")][repo] -->
-<!-- [![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)][repo] -->
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white "Visual Studio")][repo]
+[![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)][repo]
 
 <!-- ## 🌐 **BROWSERS**
 [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-317cee?style=for-the-badge&logo=GoogleChrome&logoColor=white)][repo]
@@ -202,12 +202,12 @@
 [wiki]: https://en.wikipedia.org/wiki/Main_Page
 [quora]: https://www.quora.com/
 [doc]: https://www.digitalocean.com/community
-[youtube]: https://www.instagram.com/p/Cbe0bkdLhNr/
+[youtube]: https://www.youtube.com
 [udemy]: https://www.udemy.com/
 [gog]: https://www.geeksforgeeks.org/
 [fcc]: https://www.freecodecamp.org/
 [sof]: https://stackoverflow.com/
-[repo]: https://github.com/hicodersofficial?tab=repositories
+[repo]: https://github.com/codewithsooraj?tab=repositories
 
 <hr />
 
@@ -215,8 +215,8 @@
 
 <br />
 
-![](https://ForTheBadge.com/images/badges/built-with-love.svg)
+[![github](https://ForTheBadge.com/images/badges/built-with-love.svg)][repo]
 
-<!-- ![](https://img.shields.io/github/followers/hicodersofficial?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917) -->
+<!-- ![](https://img.shields.io/github/followers/codewithsooraj?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917) -->
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hicodersofficial&theme=onedark) -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithsooraj&theme=onedark) -->
