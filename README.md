@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sooraj</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
+<!-- <p align="left"> 
+**I am a self-taught Full-stack web/mobile developer from India.**
+<br/>I enjoy taking up complex problems and turning them into simple and beautiful interface designs. I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
+<br />**I have 5+ Years of experience in full-stack web-dev.**
+</p>
+ -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithsooraj" alt="codewithsooraj" /></a> </p> -->
+
 <p align="left"> 
 **I am a self-taught Full-stack web/mobile developer from India.**
 <br/>I enjoy taking up complex problems and turning them into simple and beautiful interface designs. I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
 <br />**I have 5+ Years of experience in full-stack web-dev.**
 </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithsooraj" alt="codewithsooraj" /></a> </p>
 
 <img align="right" alt="Coding" width="400" margin="auto" src="https://user-images.githubusercontent.com/80625232/150675288-b1e1738a-7eee-4a14-a305-e2df98c85cb0.gif">
 
