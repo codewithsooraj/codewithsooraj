@@ -1,18 +1,15 @@
 <h1 align="center">Hi 👋, <b>Coders<b/></h1>
 <br />
-<img align="right" alt="Coding" width="30%" src="https://user-images.githubusercontent.com/80625232/150675288-b1e1738a-7eee-4a14-a305-e2df98c85cb0.gif">
+<a href="https://github.com/codewithsooraj?tab=repositories"><img align="right" alt="Coding" width="30%" src="https://user-images.githubusercontent.com/80625232/150675288-b1e1738a-7eee-4a14-a305-e2df98c85cb0.gif"></a>
 
 **My name is Sooraj. I am a self-taught Full-stack web/mobile developer from India.**
 <br/>I enjoy taking up complex problems and turning them into simple and beautiful interface designs. I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
 <br /><br />**I have 1+ Years of experience in full-stack web-dev.**
-
-
-
 <br />
 
 ## Fun Fact 🎈:
 
-[!<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/?username=codewithsooraj&show_icons=true" alt="git stats">][repo]
+[<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/?username=codewithsooraj&show_icons=true" alt="git stats">][repo]
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
 • 🎵 I always listen to music while <b>coding</b>.<br/>
