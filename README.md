@@ -12,21 +12,20 @@
 
 ## Fun Fact 🎈:
 
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/?username=codewithsooraj&show_icons=true" alt="git stats">
+[![github]<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/?username=codewithsooraj&show_icons=true" alt="git stats">][repo]
 • 🔭 I’m currently working on <b>something cool!</b> <br/>
 • 👯 I’m looking to collaborate on cool project.<br/>
 • 🎵 I always listen to music while <b>coding</b>.<br/>
 • 💬 Ask me about <b>Full Stack</b>.<br/>
 • 📫 Reach me out <a href="https://www.instagram.com/codewithsooraj"><b>@codewithsooraj</b></a><br/>
 </span>
-
 <br />
 
 ## 🏆 **GITHUB TROPHY**
 
-![](https://github-profile-trophy.vercel.app/?username=codewithsooraj&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
+[![github](https://github-profile-trophy.vercel.app/?username=codewithsooraj&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)][repo]
 
-<a href="http://www.github.com/codewithsooraj"><img src="https://activity-graph.herokuapp.com/graph?username=codewithsooraj&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+[![github]<a href="http://www.github.com/codewithsooraj"><img src="https://activity-graph.herokuapp.com/graph?username=codewithsooraj&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>][repo]
 
 <br />
 
