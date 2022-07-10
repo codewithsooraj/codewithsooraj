@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, <b>Coders<b/></h1>
-<br />
-<a href="https://github.com/codewithsooraj?tab=repositories"><img align="right" alt="Coding" width="30%" src="https://user-images.githubusercontent.com/80625232/150675288-b1e1738a-7eee-4a14-a305-e2df98c85cb0.gif"></a>
+    <br />
+<img align="right" alt="Coding" width="25%" src="https://user-images.githubusercontent.com/80625232/150675288-b1e1738a-7eee-4a14-a305-e2df98c85cb0.gif">
+
 
 **My name is Sooraj. I am a self-taught Full-stack web/mobile developer from India.**
 <br/>I enjoy taking up complex problems and turning them into simple and beautiful interface designs. I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
 <br /><br />**I have 1+ Years of experience in full-stack web-dev.**
-<br />
-
+<br /><br />
 ## Fun Fact 🎈:
 
 [<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/?username=codewithsooraj&show_icons=true" alt="git stats">][repo]
@@ -20,9 +20,9 @@
 
 ## 🏆 **GITHUB TROPHY**
 
-[![github](https://github-profile-trophy.vercel.app/?username=codewithsooraj&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)][repo]
+![](https://github-profile-trophy.vercel.app/?username=codewithsooraj&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET,B,BB,BBB)
 
-[![github]<a href="http://www.github.com/codewithsooraj"><img src="https://activity-graph.herokuapp.com/graph?username=codewithsooraj&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>][repo]
+[<a href="http://www.github.com/codewithsooraj"><img src="https://activity-graph.herokuapp.com/graph?username=codewithsooraj&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>][repo]
 
 <br />
 
