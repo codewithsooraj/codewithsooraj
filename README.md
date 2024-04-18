@@ -5,7 +5,7 @@
 
 **My name is Sooraj. I am a self-taught Full-stack web/mobile developer from India.**
 <br/>I enjoy taking up complex problems and turning them into simple and beautiful interface designs. I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
-<br /><br />**I have 1+ Years of experience in full-stack web-dev.**
+<br /><br />**I have 2+ Years of experience in full-stack web-dev.**
 <br /><br />
 ## Fun Fact 🎈:
 
